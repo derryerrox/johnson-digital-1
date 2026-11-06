@@ -1,0 +1,2 @@
+[functions.jd-portal]
+verify_jwt = false
